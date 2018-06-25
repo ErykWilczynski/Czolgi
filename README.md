@@ -1,6 +1,5 @@
 # Czolgi
-Coursework from Databases
-This is coursework from databases. 20 players fights in ten-person team in game similar to World of Tanks. In project database was implementented. 
+This is coursework from Databases. 20 players fights in ten-person team in game similar to World of Tanks. In project database was implementented. 
 Co-autor Michał Śmieszek.
 
 Example functionality:
